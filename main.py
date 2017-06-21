@@ -41,7 +41,7 @@ class App:
         self.on_cleanup()
 
 def main(argv):
-    print "我要做最好的浏览器！！！"
+    print "I want to be the best browser!!!"
     theApp = App()
     theApp.on_execute()
 

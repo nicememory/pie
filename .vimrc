@@ -123,5 +123,11 @@ Plugin 'suan/vim-instant-markdown'
 Plugin 'lilydjwg/fcitx.vim'
 " 插件列表结束
 call vundle#end()
+
+filetype indent on
 filetype plugin indent on
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 
